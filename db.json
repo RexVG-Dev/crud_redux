@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "name": "Jugo de Naranja",
+      "price": "32",
+      "id": 3
+    },
+    {
+      "name": "Jugo de Fresa",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "Rib Eye 1.5kg",
+      "price": "1100",
+      "id": 6
+    },
+    {
+      "name": "Jugo de piña",
+      "price": "400",
+      "id": 8
+    },
+    {
+      "name": "A borrar",
+      "price": "200",
+      "id": 9
+    }
+  ]
+}
