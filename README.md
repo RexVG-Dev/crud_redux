@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Instal json-server to use the API Rest
+### `npm install -g json-server`
+
+In the project directory, you should run
+### `json-server --watch db.json --port 5000`
+Visit (https://www.npmjs.com/package/json-server) For more info
+
 ## Available Scripts
 
 In the project directory, you can run:
